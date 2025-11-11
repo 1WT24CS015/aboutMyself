@@ -1,0 +1,8 @@
+Title: Miss
+Full Name: Mubeena
+USN: 1WT24CS015
+Semester: Third
+Section: A
+Branch: Computer Science
+Year of Admission: 2024
+College Name: GITW
