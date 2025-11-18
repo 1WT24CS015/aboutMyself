@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Title: Miss
 Full Name: Mubeena
 USN: 1WT24CS015
@@ -7,7 +7,6 @@ Section: A
 Branch: Computer Science
 Year of Admission: 2024
 College Name: Ghousia institute of technology for women
-=======
 Title:Miss
 Full name:Mubeena
 USN:1WT24CS015
@@ -20,4 +19,3 @@ SSLC: Newton public school
 PUC: St.Francis composite pu college
 UG Degree: Ghousia institute of technology for women
 
->>>>>>> feature-branch
