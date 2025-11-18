@@ -8,5 +8,5 @@ Year of Admission:2024
 College NAME: Ghousia institute of technology for women
 SSLC: Newton public school
 PUC: St.Francis composite pu college
-UG Degree: Ghousia institute of technology for women
+UG Degree: 2nd year B.E Computer science
 
