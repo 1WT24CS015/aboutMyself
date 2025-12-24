@@ -7,4 +7,6 @@ Subject Name: Project Management with GIT
 Subject Code: BCS358C
 Academic Year: 2025-26
 Mobile No: 9736352738
-Email ID:mubeena.15@gmail.com
+My Date of Joining to GITW: 17th sep-2024
+
+
